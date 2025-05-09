@@ -1,0 +1,36 @@
+=== Environment Settings ===
+DOMAIN_SIZE: 1.0
+GRID_RES: 0.01
+NUM_AGENTS: 10
+DENSITY_CENTER: (0.5, 0.5)
+DENSITY_SIGMA: 0.1
+DENSITY_MODE: solid_circles
+
+=== Lloyd's Algorithm Parameters ===
+LLOYD_MAX_ITERS: 100
+LLOYD_TOL: 0.0001
+
+=== Simulated Annealing Parameters ===
+SA_T_INIT: 1.0
+SA_ALPHA: 0.995
+SA_MAX_ITERS: 10000
+SA_MOVE_SCALE: 0.5
+
+=== Agent Initialization ===
+AGENT_INIT_MODE: manual
+MANUAL_AGENT_POSITIONS: [[0.95, 0.1], [0.95, 0.2], [0.8, 0.3], [0.95, 0.4], [0.95, 0.5], [0.95, 0.6], [0.95, 0.7], [0.8, 0.8], [0.95, 0.9], [0.95, 0.95]]
+
+=== System Specifications ===
+OS: Windows 10 (10.0.26100)
+Processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+CPU Cores: 8
+Logical CPUs: 16
+Total Memory: 15.42 GB
+Available Memory: 4.19 GB
+Python Version: 3.11.3
+
+=== Simulated Annealing Acceptance Stats ===
+Accepted Moves: 2295
+Rejected Moves: 2
+Total Moves: 2297
+Acceptance Rate: 0.9991

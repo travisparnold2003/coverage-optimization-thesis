@@ -1,0 +1,4 @@
+Algorithm: Lloyd's Algorithm
+Final Coverage Cost: 0.003186
+Iterations: 22
+Time Taken: 0.00 seconds

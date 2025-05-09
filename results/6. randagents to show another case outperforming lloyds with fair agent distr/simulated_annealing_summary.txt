@@ -1,0 +1,4 @@
+Algorithm: Simulated Annealing
+Final Coverage Cost: 0.001950
+Iterations: 2298
+Time Taken: 0.00 seconds
